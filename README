@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Flzfse.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Flzfse?ref=badge_shield)
+
 This is a reference C implementation of the LZFSE compressor introduced in the
 Compression library with OS X 10.11 and iOS 9.
 
@@ -50,3 +52,7 @@ Produces the following files in /tmp/lzfse.dst:
 usr/local/bin/lzfse                  command line tool
 usr/local/include/lzfse.h            LZFSE library header
 usr/local/lib/liblzfse.a             LZFSE library
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Flzfse.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Flzfse?ref=badge_large)
